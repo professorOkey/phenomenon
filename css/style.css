@@ -48,7 +48,7 @@ body {
   color: #2D2A26;
   background-color: #FCFCF0;
   line-height: 1;
-  font-family: "";
+  font-family: "Avenir-Next";
   font-size: 0.875rem;
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
@@ -61,7 +61,7 @@ body {
 input,
 button,
 textarea {
-  font-family: "";
+  font-family: "Avenir-Next";
   font-size: inherit;
 }
 
