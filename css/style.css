@@ -355,10 +355,8 @@ body.menu-open {
 
 .marquee__text {
   font-weight: 700;
-  width: -webkit-fit-content;
-  width: -moz-fit-content;
-  width: fit-content;
-  font-size: 0.75rem;
+  font-size: 0.65rem;
+  color: #FFFFFF;
   line-height: 1.3658333333;
   position: relative;
   padding-left: 25px;
