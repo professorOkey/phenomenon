@@ -1332,6 +1332,7 @@ body.menu-open {
 }
 
 .socials__tik-tok {
+  padding-top: 40px;
   -webkit-box-flex: 1;
       -ms-flex: 1 1 50%;
           flex: 1 1 50%;
