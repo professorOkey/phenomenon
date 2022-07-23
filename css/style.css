@@ -367,7 +367,7 @@ body.menu-open {
   top: 50%;
   left: 0%;
   content: "";
-  background: url(../img/flag/united-states.svg);
+  background: url(../img/flag/united-states.svg) no-repeat;
   width: 10px;
   height: 10px;
   -webkit-transform: translate(0, -50%);
