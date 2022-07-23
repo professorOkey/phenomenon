@@ -355,7 +355,7 @@ body.menu-open {
 
 .marquee__text {
   font-weight: 700;
-  font-size: 0.7rem;
+  font-size: 0.65rem;
   color: #FFFFFF;
   line-height: 1.3658333333;
   position: relative;
@@ -2035,6 +2035,7 @@ body.menu-open {
   }
 
   .parallax__container {
+    padding-top: 50px;
     -webkit-box-align: stretch;
         -ms-flex-align: stretch;
             align-items: stretch;
